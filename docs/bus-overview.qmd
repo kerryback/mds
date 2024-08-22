@@ -1,0 +1,105 @@
+---
+title:  "The MDS Business Track"
+author: <br><br><br><br><span style="font-family:perpetua; font-variant:small-caps; color:#606060;">Kerry Back</span><br><br><img src="RiceBusiness-transparent-logo-sm.png"  height=80>
+output-dir: docs
+execute:
+  echo: false
+  jupyter: python3
+format: 
+  revealjs:
+    highlight-style: monokai
+    code-fold: true
+    scrollable: true
+    slide-number: true
+    preview-links: true
+    self-contained: true
+    controls: true
+    transition: fade
+    theme: [solarized, 721.scss]
+    incremental: false
+---
+
+## Overview 
+
+- 6 half-semester courses
+- Marketing I and II in fall (BUSI 711/712)
+- Finance I and II in spring (BUSI 721/722)
+- Operations I and II in summer (BUSI 731/732)
+
+## Marketing I 
+
+- Intro to key data-driven marketing concepts
+  - Market research, new product launches, customer segmentation
+and targeting, loyalty programs, pricing, online advertising. 
+  - Case analysis and quantitative tools.
+- Course designed and videos by Arun Gopalakrishnan, Assistant Professor of Marketing
+- Course delivered by John Franklin, Lecturer in Management
+
+
+## Marketing II 
+
+- Deeper dive into data-driven approaches to marketing questions
+- Topics include churn forecasting, designing surveys, segmentation, and positioning. 
+- Software used includes Excel, JMP Pro 16, and Python.
+- Same instructional team as Marketing I 
+
+
+## 
+
+![](Arun.png)
+
+##
+
+![](Franklin.png)
+
+
+## Finance I 
+
+- Intro to investments, including analysis of corporate investment projects
+  - Loan calculations and retirement planning
+  - Markets, assets, and statistical properties of returns
+  - Efficient portfolios of assets
+  - Corporate investment projects
+- Taught by Kerry Back (https://kerryback.com)
+
+
+## Finance II 
+
+- Quantitative equity investing
+  - Return prediction by machine learning from company characteristics updated daily in a SQL database
+  - Paper trading via python API at Alpaca Markets
+- Futures and options markets
+  - Risk management and investing
+  - Pricing models
+- https://busi721-901.kerryback.com and https://busi722-901.kerryback.com
+
+
+## Operations I
+
+- General introduction to operations management
+  - Process Analysis
+  - Inventory Management
+  - Queuing Theory
+  - Supply Chain
+  - Statistical Process Control
+- Taught by Christopher Burke, Lecturer in Management
+
+##
+
+![](Burke.png)
+
+## Operations II
+
+- Project based course
+
+  - Build an end-to-end data-driven solution for optimizing wind farm operations in the energy sector.
+
+  - Apply mathematical modeling and optimization techniques to real-world energy supply chain problems.
+
+  - Students work in teams, collaborating on a shared GitHub repository.
+
+- Taught by Gibby Dunleavy, Lecturer in Management
+
+## 
+
+![](Dunleavy.png)
